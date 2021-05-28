@@ -21,6 +21,7 @@ already extracted these micro moments as different classes. The whole process of
 my research is based on is within this repo. 
 
 ![image](https://user-images.githubusercontent.com/83111155/119937160-ebb6c700-bfa7-11eb-8547-4c3430958717.png)
+
 *Flowchart of a supervised anomaly detection scheme based on DNN used to detect two different abnormalites, i.e. excessive consumption and consumption while outside.*
 
 ## Description of Dataset 
@@ -31,6 +32,9 @@ Those wishing to use the dataset in academic work should cite this paper as the 
 ## Approach towards building classifiers 
 Building classifiers I have taken logistic regression and random forest classifiers to compare their performances and evaluating based on different metrics 
 
+![image](https://user-images.githubusercontent.com/83111155/119988164-74068d80-bfe3-11eb-8f4c-2b140412ea55.png)
+
+*Indentification of Anomalous region by visualizing the micro-moments*
 
 
 
