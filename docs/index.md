@@ -45,7 +45,6 @@ as per distribution of classes it is clear that occurance of **Class 4** is high
  as per above visualization, shows the exact boundaries of decision to take in classifying the multi-class hence, Logistic regression is best for this type of classification and also random forest classifier is also used to see the outcome of both of the classifiers. 
  
  ## Evaluation metrics of both of the classifiers
- 
  Models | Accuracy Score |Macro Precision | Macro Recall| Macro F1 score
 ------------ | ------------- | ------------- | ------------- | -------------                          
 Logistic Regression| 0.86 |0.54|0.40|0.37
@@ -55,3 +54,4 @@ Random Forest Classifer |0.96 |0.69|0.80|0.73
 - From the distribution of classes that is clear that due to human behaviour there exists anomalous power consumption hence, an positive reinforcement is to be encourged among the tenets of the building in saving energy. 
 - Random Forest classifier has performed very well with this dataset. 
 - Futher in production this model has to train against consumer's feedback as well because the rate of false negatives can led to false alarms thus, somehow integration of consumer's feedback through some program to check on them for comfort makes sense to use this model. 
+
