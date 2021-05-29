@@ -55,5 +55,6 @@ Random Forest Classifer |0.96 |0.69|0.80|0.73
 - Random Forest classifier has performed very well with this dataset. 
 - Futher in production this model has to train against consumer's feedback as well because the rate of false negatives can led to false alarms thus, somehow integration of consumer's feedback through some program to check on them for comfort makes sense to use this model. 
 
+References :Yassine Himeur,Abdullah Alsalemi, Faycal Bensaali, Abbes Amira "A Novel Approach for Detecting Anomalous Energy Consumption Based on Micro-Moments and Deep Neural Networks", Cognitive Compution (2020) https://doi.org/10.1007/s12559-020-09764-y 
 
 
